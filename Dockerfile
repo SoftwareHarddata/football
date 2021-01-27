@@ -1,5 +1,4 @@
-# Fix Docker
-
+#2. Fix Docker and Feature Docker File
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
